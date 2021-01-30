@@ -1,2 +1,8 @@
-.DS_Store
-.ipynb_checkpoints
+# provide path of the file
+pairplots.png
+project_2_demo.ipynb
+
+# we can also specify pattern
+# like if I want to ignore all files
+# in the conf folder
+scratch/*
